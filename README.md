@@ -1,4 +1,5 @@
-# Impact-of-Car-features
+# Impact_of_Car_features
+### Analysis of Car features on its price using Microsoft Excel
 
 ## Project Description
 
@@ -31,3 +32,6 @@ Task 4 : How does the average price of a car vary across different manufacturers
 Task 5 : What is the relationship between fuel efficiency and the number of cylinders in a car's engine?
 
 Task 6 : Build an Interactive Dashboard that answers clients needs.
+
+## Dashboard
+![Car Dashboard](https://github.com/anandbhr/Impact_of_Car_features/assets/139354185/b2f8f4ed-b9d6-4176-a2b7-4c7fc591d5cd)
